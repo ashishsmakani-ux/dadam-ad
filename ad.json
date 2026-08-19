@@ -1,6 +1,7 @@
 {
   "status": "active",
-  "image_url": "https://dummyimage.com/600x130/1b5e20/ffffff.png&text=Dadam+Ropa+Mate+Sampark:+Ashish+8128584566+/+Viren+7226987744",
-  "target_url": "https://wa.me/918128584566?text=નમસ્તે_મારે_દાડમના_રોપા_મેળવવા_માહિતી_જોઈએ_છે",
+  "type": "image",
+  "media_url": "https://i.ibb.co/3s6K8gL/dadam-banner.png",
+  "target_url": "https://wa.me/918128484566?text=નમસ્તે_મારે_દાડમના_રોપા_વિશે_માહિતી_જોઈએ_છે",
   "expiry_date": "2026-12-31"
 }
